@@ -1,4 +1,4 @@
-{ 
+[
              {
                 "instruction": "111",
     "input": "",
@@ -7,4 +7,4 @@
                 "instruction": "111",
     "input": "",
     "output": "222"            }
-        }
+]
